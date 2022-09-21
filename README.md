@@ -2,16 +2,16 @@
 PHP Basics
 
 
-##Trabajos Prácticos
-
-###TP0 (1er tarea)
+## Trabajos Prácticos
+Cancel changes
+TP0 (1er tarea)
 Instalacion de XAMPP y herramientas necesarias
 
-###TP1
+TP1
 Introducción PHP
 
-###TP2
+TP2
 Estructuras de control - parte 1
 
-###TP3
+TP3
 LOGIN - Método POST - Validación
