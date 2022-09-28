@@ -14,4 +14,5 @@ TP2
 Estructuras de control - parte 1
 
 TP3
-LOGIN - Método POST - Validación
+Parte1: LOGIN - Método POST - Validación
+Parte2: secuencias usando "for"
